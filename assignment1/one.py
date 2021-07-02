@@ -2,7 +2,7 @@
 #formula=n!/(n-r)!
 n=5
 r=3
-factorial=1
+
 
 #for neuminator(n!)
 i=1
