@@ -1,0 +1,4 @@
+Write a summary of everything you learnt in this class.
+In this class assignment. I have learnt logic implention for programming .
+I have learnt python library function and logic implemention in  python programming language.
+
