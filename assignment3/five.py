@@ -1,4 +1,4 @@
-# A = [‘a’,’b’,’c’,’d’] B = [‘1’,’a’,’2’,’b’]
+# 5.A = [‘a’,’b’,’c’,’d’] B = [‘1’,’a’,’2’,’b’]
 # Find  AUB and intersection odf a and b
 A = {'a','b','c','d'}
 B = {1,'a',2,'b'}

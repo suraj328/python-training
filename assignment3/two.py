@@ -1,4 +1,4 @@
-#Make a list of ten students in your class. Print the name of each student whose name ends with ‘a’.
+#2.Make a list of ten students in your class. Print the name of each student whose name ends with ‘a’.
 Bca_stds=['Anil','Manoz','Prashish','Subin','Homa','Mahendra','Samita','Subin','Rohil','Bipul']
 #assigining value for searching
 search='a'

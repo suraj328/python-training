@@ -1,4 +1,4 @@
-# Calculate the mean and standard deviation of the following list:
+# 6.Calculate the mean and standard deviation of the following list:
 # Numbers = [1,2,3,5,88,99,55,33,41,52]
 from statistics import*
 #declary list
